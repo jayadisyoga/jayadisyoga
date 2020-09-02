@@ -1,4 +1,4 @@
-<a href="https://yogasuryajayadi.web.app"><img src="https://avatars2.githubusercontent.com/u/67197603?s=460&u=56a00c583a2d1f45984bd734a80ab9eae9598479&v=4" width=100 align=center></a>
+<a href="https://yogasuryajayadi.web.app"><img src="https://avatars2.githubusercontent.com/u/67197603?s=460&u=56a00c583a2d1f45984bd734a80ab9eae9598479&v=4" width=100 align=right></a>
 
 <!--
 **jayadisyoga/jayadisyoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
